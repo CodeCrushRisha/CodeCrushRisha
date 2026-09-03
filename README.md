@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Gold Modern Personal LinkedIn Banner.png" alt="Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm MST NAIMA AKTER RISHA</h1>
 <h3 align="center">I am learning Web Development</h3>
 
