@@ -55,14 +55,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeCrushRisha&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### ⭐ My Projects
 
 - 🏋️ [My Library](https://github.com/CodeCrushRisha/my-library) — Dark-themed gym companion app (Next.js 15 + TypeScript + Tailwind CSS)
